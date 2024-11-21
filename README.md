@@ -34,21 +34,21 @@ Linting
 Run ESLint to check for code issues:
 -npm run test
 
-# Technologies Used
-# Frontend
-# React: A library for building user interfaces.
-# Material-UI: For building accessible and aesthetically pleasing components.
-# Emotion: For styling components.
-# Axios: For fetching repository data via REST APIs.
-# Vite: A fast build tool for development and production.
-# TypeScript: For type-safe JavaScript.
-# ESLint: To enforce coding standards.
-# Jest: For writing and executing test cases.
-# Testing Library: For DOM-based testing.
-# Jest DOM: To extend Jest's assertions.
+Technologies Used
+ Frontend
+ React: A library for building user interfaces.
+ Material-UI: For building accessible and aesthetically pleasing components.
+ Emotion: For styling components.
+ Axios: For fetching repository data via REST APIs.
+ Vite: A fast build tool for development and production.
+ TypeScript: For type-safe JavaScript.
+ ESLint: To enforce coding standards.
+ Jest: For writing and executing test cases.
+ Testing Library: For DOM-based testing.
+ Jest DOM: To extend Jest's assertions.
 
 
-# React + TypeScript + Vite
+ React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
